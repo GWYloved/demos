@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/aixin_00"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_01"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_02"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_03"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_04"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_05"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_06"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_07"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_08"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_09"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_10"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_11"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_12"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_13"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_14"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_15"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_16"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_17"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_18"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_19"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_20"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_21"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_22"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_23"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_24"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_25"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_26"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_27"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/aixin_28"
+        android:duration="40" />
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_29"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_30"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_31"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_32"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_33"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_34"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_35"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_36"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_37"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_38"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_39"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_40"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_41"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_42"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_43"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_44"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_45"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_46"-->
+<!--        android:duration="40" />-->
+
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_47"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_48"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_49"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_50"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_51"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_52"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_53"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_54"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_55"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_56"-->
+<!--        android:duration="40" />-->
+<!--    <item-->
+<!--        android:drawable="@drawable/aixin_57"-->
+<!--        android:duration="40" />-->
+</animation-list>
